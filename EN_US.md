@@ -9,12 +9,12 @@ A simple API for managing tasks, developed with Nest.js, TypeScript, TypeORM and
 ## Index
 
 - [About the Project](#about-the-project)
-- Technologies Used](#technologies-used)
-- Features](#features)
-- Installation
-- Folder Structure](#folder-structure)
-- License](#license)
-- Contact](#contact)
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [Installation
+- [Folder Structure](#folder-structure)
+- [License](#license)
+- [Contact](#contact)
 
 ## About the Project
 
@@ -22,14 +22,13 @@ The Task Manager API is designed to make task management easier. Users can creat
 
 ## Technologies Used in the Project
 
-- NestJS](https://nestjs.com/)
-- TypeORM](https://typeorm.io/)
-- [Database: PostgreSQL](https://www.postgresqltutorial.com/postgresql-getting-started/)
+- [NestJS](https://nestjs.com/)
+- [TypeORM](https://typeorm.io/)
+- [Banco de Dados: PostgreSQL](https://www.postgresqltutorial.com/postgresql-getting-started/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Class Validator](https://github.com/typestack/class-validator)
 - [Class Transformer](https://github.com/typestack/class-transformer)
-- [Railway](https://railway.app/)
-- [Jest](https://jestjs.io/pt-BR/docs/getting-started)
+- [Vercel](https://vercel.com/)
 
 ## Features
 
