@@ -29,8 +29,7 @@ A Task Manager API foi projetada para facilitar o gerenciamento de tarefas. Os u
 - [TypeScript](https://www.typescriptlang.org/)
 - [Class Validator](https://github.com/typestack/class-validator)
 - [Class Transformer](https://github.com/typestack/class-transformer)
-- [Railway](https://railway.app/)
-- [Jest](https://jestjs.io/pt-BR/docs/getting-started)
+- [Vercel](https://vercel.com/)
 
 ## Funcionalidades
 
