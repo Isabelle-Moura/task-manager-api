@@ -73,9 +73,9 @@ A Task Manager API foi projetada para facilitar o gerenciamento de tarefas. Os u
 
 1. Clone o repositório:
 
-   ```bash
-   git clone https://github.com/Isabelle-Moura/task-manager-api.git
-   ```
+```bash
+git clone https://github.com/Isabelle-Moura/task-manager-api.git
+```
 
 2. Instalação de dependências
 
@@ -151,7 +151,11 @@ $ npm run test:cov
 
 ## Arquivo Insomnia
 
-#### O arquivo Insomnia deste projeto, para fazer as requisições, pode ser baixado [aqui]().
+Para facilitar o uso das rotas da API, você pode importar o arquivo exportado do Insomnia.
+
+1. Baixe o arquivo Insomnia [aqui](./Insomnia_2024-09-06.json).
+2. Abra o Insomnia e vá em `Application > Preferences > Data > Import Data > From File`.
+3. Selecione o arquivo baixado e importe as rotas para o Insomnia.
 
 ## Licença
 
