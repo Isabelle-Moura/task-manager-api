@@ -29,7 +29,7 @@ A Task Manager API foi projetada para facilitar o gerenciamento de tarefas. Os u
 - [TypeScript](https://www.typescriptlang.org/)
 - [Class Validator](https://github.com/typestack/class-validator)
 - [Class Transformer](https://github.com/typestack/class-transformer)
-- [Vercel](https://vercel.com/)
+- [Render](https://render.com/)
 
 ## Funcionalidades
 
@@ -110,16 +110,6 @@ $ npm run start:dev
 
 # modo produção
 $ npm run start:prod
-```
-
-3. Teste
-
-```bash
-# testes unitários
-$ npm run test
-
-# test coverage
-$ npm run test:cov
 ```
 
 ## Estrutura das Pastas
